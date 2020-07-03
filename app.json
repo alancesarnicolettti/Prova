@@ -1,0 +1,12 @@
+{
+  "name": "provatrello",
+  "displayName": "provatrello",
+  "expo": {
+    "name": "provatrello",
+    "slug": "provatrello",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
